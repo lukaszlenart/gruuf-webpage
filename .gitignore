@@ -4,3 +4,4 @@ _site
 temp
 .vscode
 .sass-cache
+*.sh
