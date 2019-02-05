@@ -1,5 +1,5 @@
 # Site settings
-title: Gruuf App
+title: Gruuf
 email: lukasz@gruuf.com
 url: https://gruuf.com/
 description: "This service allows you to control history of your motorbike, keep track of incoming periodic maintenance activities and any other service activities your perform in your motorbike."
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Gruuf
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
