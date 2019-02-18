@@ -334,6 +334,10 @@ ul.banner-social-buttons li {
     }
 }
 
+ul.features li {
+    background-color: {{ site.color.primary-dark }}; 
+}
+
 footer {
     padding: 50px 0;
 }
